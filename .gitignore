@@ -1,0 +1,17 @@
+# Logs
+*.log
+*.out
+
+# Node / Python / Java
+node_modules/
+__pycache__/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
